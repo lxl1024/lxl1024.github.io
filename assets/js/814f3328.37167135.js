@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeva_website=self.webpackChunkeva_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"intro","permalink":"/blog/intro","unlisted":false,"date":"2023-05-07T01:52:38.000Z"}]}')}}]);
