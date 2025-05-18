@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lxl1024.github.io/blog</id>
+    <title>LXL1024 Blog</title>
+    <updated>2023-05-07T01:52:38.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lxl1024.github.io/blog"/>
+    <subtitle>LXL1024 Blog</subtitle>
+    <icon>https://lxl1024.github.io/img/docusaurus.png</icon>
+    <entry>
+        <title type="html"><![CDATA[intro]]></title>
+        <id>https://lxl1024.github.io/blog/intro</id>
+        <link href="https://lxl1024.github.io/blog/intro"/>
+        <updated>2023-05-07T01:52:38.000Z</updated>
+        <summary type="html"><![CDATA[this is test!!!]]></summary>
+        <content type="html"><![CDATA[<p>this is test!!!</p>]]></content>
+    </entry>
+</feed>
